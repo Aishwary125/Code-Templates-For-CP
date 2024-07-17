@@ -22,3 +22,7 @@ int main() {
     #endif
     ios_base::sync_with_stdio(false);
     cin.tie(0); 
+/*
+Why am I not enough, despite my love so true?
+I gave my heart, yet it wasn't meant for you.
+*/
